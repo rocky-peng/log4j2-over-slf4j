@@ -16,9 +16,6 @@ import org.slf4j.Logger;
 public class ExtendedLoggerAdapter implements ExtendedLogger {
 
 
-
-
-
     private Logger logger;
 
     public ExtendedLoggerAdapter(Logger logger) {
